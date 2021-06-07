@@ -1,7 +1,8 @@
 # Karplus Strong Guitar Synthesis 
 
 The Karplus Strong Algorithim
-![image](https://github.com/bradleyshelley99/Karplus-StrongGuitarSynthesis-RealTimeDSP/KarplusStrong.png)
+![image](https://github.com/bradleyshelley99/Karplus-StrongGuitarSynthesis-RealTimeDSP/blob/963f8507371a1ba54211a8be44d3befe2211f85c/KarplusStrong.png)
+
 
 - The Karplus Strong Algorithim is a theoretical model to produce precise guitar string chords. A short burst of sound is pushed through a filter system that is randomly filled with white noise to achieve a precise guitar key frequency.
 
