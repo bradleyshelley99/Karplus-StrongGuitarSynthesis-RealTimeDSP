@@ -1,6 +1,7 @@
 # Karplus Strong Guitar Synthesis 
 
 The Karplus Strong Algorithm
+
 ![image](https://github.com/bradleyshelley99/Karplus-StrongGuitarSynthesis-RealTimeDSP/blob/963f8507371a1ba54211a8be44d3befe2211f85c/KarplusStrong.png)
 
 
