@@ -3,7 +3,7 @@
 ## Demonstration of the code below
 https://www.youtube.com/watch?v=3X3zq3uVvAU
 
-The Karplus Strong Algorithm
+## The Karplus Strong Algorithm
 
 ![image](https://github.com/bradleyshelley99/Karplus-StrongGuitarSynthesis-RealTimeDSP/blob/963f8507371a1ba54211a8be44d3befe2211f85c/KarplusStrong.png)
 
